@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="mudoedit.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.995"
+     inkscape:cx="100"
+     inkscape:cy="100"
+     inkscape:window-width="3374"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18" />
+  <!-- Main application window -->
+  <rect
+     x="10"
+     y="10"
+     width="180"
+     height="180"
+     rx="10"
+     ry="10"
+     fill="#4A86E8"
+     stroke="#000"
+     stroke-width="4"
+     id="rect1" />
+  <!-- Main window title bar -->
+  <path
+     d="M 9.7039779,9.8518804 H 190.26344 V 31.977907 q -90.279732,7.375342 -180.5594621,0 z"
+     fill="#ffd700"
+     stroke="#000000"
+     stroke-width="3.44053"
+     id="path1"
+     style="fill:#a7b6a3;fill-opacity:1" />
+  <!-- Exaggerated 3D effect for main window -->
+  <path
+     d="M10 190 Q 100 180 190 190"
+     fill="#2A66C8"
+     stroke="#000"
+     stroke-width="4"
+     id="path2" />
+  <path
+     d="M190 40 Q 180 115 190 190"
+     fill="#2A66C8"
+     stroke="#000"
+     stroke-width="4"
+     id="path3" />
+  <!-- Document windows -->
+  <!-- Window 1 (back-left) -->
+  <path
+     d="m 19.572821,49.234975 q 40.305333,-3.836896 80.610669,0 v 76.737905 q -40.305336,3.8369 -80.610669,0 z"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="2.95304"
+     id="path4" />
+  <path
+     d="M20 50 Q 60 45 100 50 L100 70 Q 60 65 20 70 Z"
+     fill="#FFD700"
+     stroke="#000"
+     stroke-width="3"
+     id="path5"
+     style="fill:#a7b6a3;fill-opacity:1" />
+  <path
+     d="m 24.2598,84.771033 q 37,-2 70,0"
+     stroke="#000000"
+     stroke-width="2"
+     id="path6" />
+  <path
+     d="m 24.091039,104.54363 q 37,-2 70,0"
+     stroke="#000000"
+     stroke-width="2"
+     id="path7" />
+  <path
+     d="m 24.225917,120.69668 q 37,-2 70,0"
+     stroke="#000000"
+     stroke-width="2"
+     id="path8" />
+  <!-- Window 2 (back-right) -->
+  <path
+     d="m 89.744606,68.956045 q 45.255394,-3.422851 90.510784,0 v 68.457015 q -45.25539,3.42286 -90.510784,0 z"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     id="path9" />
+  <path
+     d="m 89.870335,67.50834 q 44.999995,-5 89.999995,0 v 20 q -45,-5 -89.999995,0 z"
+     fill="#ffd700"
+     stroke="#000000"
+     stroke-width="3"
+     id="path10"
+     style="fill:#a7b6a3;fill-opacity:1" />
+  <path
+     d="m 94.986317,104.01389 q 41.999993,-2 79.999993,0"
+     stroke="#000000"
+     stroke-width="2"
+     id="path11" />
+  <path
+     d="m 95.658752,120.956 q 41.999998,-2 79.999998,0"
+     stroke="#000000"
+     stroke-width="2"
+     id="path12" />
+  <!-- Window 3 (front-center) -->
+  <path
+     d="m 36.808341,100.32855 q 48.375927,-3.863541 96.751859,0 v 77.27086 q -48.375932,3.86354 -96.751859,0 z"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="2.94656"
+     id="path14" />
+  <path
+     d="m 36.987591,99.703774 q 48.371301,-5.010489 96.742599,0 v 20.041966 q -48.371298,-5.01049 -96.742599,0 z"
+     fill="#ffd700"
+     stroke="#000000"
+     stroke-width="2.95383"
+     id="path15"
+     style="fill:#a7b6a3;fill-opacity:1" />
+  <path
+     d="m 42.729282,131.63305 q 44.399154,-2.00851 85.019648,0"
+     stroke="#000000"
+     stroke-width="1.94801"
+     id="path16" />
+  <path
+     d="m 43.463552,147.1192 q 43.991596,-2.00987 84.239218,0"
+     stroke="#000000"
+     stroke-width="1.9397"
+     id="path17" />
+  <path
+     d="m 45.605382,163.58701 q 43.941162,-2.01003 84.142648,0"
+     stroke="#000000"
+     stroke-width="1.93867"
+     id="path18" />
+  <!-- Main window buttons -->
+</svg>

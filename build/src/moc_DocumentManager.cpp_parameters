@@ -1,0 +1,17 @@
+-I/home/tserath/claude/mudoedit/version-next/99.working/src
+-I/home/tserath/claude/mudoedit/version-next/99.working
+-I/home/tserath/claude/mudoedit/version-next/99.working/build
+-D_GNU_SOURCE
+-D_LARGEFILE64_SOURCE
+-DQT_NO_CAST_TO_ASCII
+-DQT_NO_CAST_FROM_ASCII
+-DQT_NO_URL_CAST_FROM_STRING
+-DQT_NO_CAST_FROM_BYTEARRAY
+-DQT_USE_QSTRINGBUILDER
+-DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT
+-DQT_NO_KEYWORDS
+-DQT_NO_FOREACH
+-DQT_STRICT_ITERATORS
+-o
+/home/tserath/claude/mudoedit/version-next/99.working/build/src/moc_DocumentManager.cpp
+/home/tserath/claude/mudoedit/version-next/99.working/src/DocumentManager.h

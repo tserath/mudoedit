@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=mudoedit
+GenericName=Text Editor
+Comment=Simple text editor for KDE
+Icon=com.tserath.mudoedit
+Exec=mudoedit %F
+Terminal=false
+Categories=Qt;KDE;Utility;TextEditor;
+MimeType=text/plain;text/x-c;text/x-c++;text/x-c++src;text/x-java;text/x-python;text/x-makefile;text/css;text/html;application/x-shellscript;
+X-KDE-StartupNotify=true
